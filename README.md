@@ -9,7 +9,7 @@
 
 - 📅 Start Date: April 2026
 - 🎯 Goal: Get hired as an AI Engineer
-- 🔥 Current Streak: Day 13
+- 🔥 Current Streak: Day 14
 
 ---
 
@@ -17,8 +17,8 @@
 
 | Month | Focus | Status |
 |-------|-------|--------|
-| Month 1 | Core Foundations (Python, NumPy, Pandas, Git) | 🔄 In Progress |
-| Month 2 | Machine Learning Core (Regression, Trees, Metrics) | ⏳ Upcoming |
+| Month 1 | Core Foundations (Python, NumPy, Pandas, Git) | ✅ Done |
+| Month 2 | Machine Learning Core (Regression, Trees, Metrics) | 🔄 In Progress |
 | Month 3 | Deep Learning (Neural Networks, PyTorch, CNNs) | ⏳ Upcoming |
 | Month 4 | LLMs & Generative AI (Transformers, BERT, GPT) | ⏳ Upcoming |
 | Month 5 | AI Systems & MLOps (Docker, FastAPI, AWS) | ⏳ Upcoming |
@@ -36,6 +36,7 @@
 | 11 | Sales Performance Visual Dashboard | Matplotlib, Subplots, Charts | `month-1-foundations/` |
 | 12 | Job Market EDA Dashboard | EDA, Correlation, Outliers, Heatmap | `month-1-foundations/` |
 | 13 | HR Data Cleaning Pipeline | Data Cleaning, Feature Engineering, Encoding | `month-1-foundations/` |
+| 14 | Salary Prediction Model | Linear Regression, Train/Test Split, MAE, R² | `month-2-ml-core/` |
 
 ---
 
@@ -56,6 +57,8 @@ zero-to-ai-engineer/
 │   ├── day13_data_cleaning.py
 │   └── day13_hr_pipeline.py
 ├── month-2-ml-core/
+│   ├── day14_ml_intro.py
+│   └── day14_salary_predictor.py
 ├── month-3-deep-learning/
 ├── month-4-llms/
 ├── month-5-mlops/
@@ -84,6 +87,7 @@ zero-to-ai-engineer/
 - ✅ Day 11 — Matplotlib + Sales Performance Visual Dashboard
 - ✅ Day 12 — EDA + Job Market Analysis Dashboard
 - ✅ Day 13 — Data Cleaning + Feature Engineering + HR Pipeline
+- ✅ Day 14 — First ML Model! Linear Regression + Salary Predictor
 
 ---
 
