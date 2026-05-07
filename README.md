@@ -9,7 +9,7 @@
 
 - 📅 Start Date: April 2026
 - 🎯 Goal: Get hired as an AI Engineer
-- 🔥 Current Streak: Day 14
+- 🔥 Current Streak: Day 15
 
 ---
 
@@ -37,6 +37,7 @@
 | 12 | Job Market EDA Dashboard | EDA, Correlation, Outliers, Heatmap | `month-1-foundations/` |
 | 13 | HR Data Cleaning Pipeline | Data Cleaning, Feature Engineering, Encoding | `month-1-foundations/` |
 | 14 | Salary Prediction Model | Linear Regression, Train/Test Split, MAE, R² | `month-2-ml-core/` |
+| 15 | Job Hiring Predictor | Logistic Regression, Confusion Matrix, ROC AUC | `month-2-ml-core/` |
 
 ---
 
@@ -58,7 +59,9 @@ zero-to-ai-engineer/
 │   └── day13_hr_pipeline.py
 ├── month-2-ml-core/
 │   ├── day14_ml_intro.py
-│   └── day14_salary_predictor.py
+│   ├── day14_salary_predictor.py
+│   ├── day15_logistic_regression.py
+│   └── day15_hiring_predictor.py
 ├── month-3-deep-learning/
 ├── month-4-llms/
 ├── month-5-mlops/
@@ -88,6 +91,7 @@ zero-to-ai-engineer/
 - ✅ Day 12 — EDA + Job Market Analysis Dashboard
 - ✅ Day 13 — Data Cleaning + Feature Engineering + HR Pipeline
 - ✅ Day 14 — First ML Model! Linear Regression + Salary Predictor
+- ✅ Day 15 — Logistic Regression + Job Hiring Predictor
 
 ---
 
